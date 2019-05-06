@@ -1,7 +1,10 @@
 body {
-  font-family: Helvetica, sans-serif;
   margin-left: 150px;
   margin-right: 150px;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
 }
 
 table {
