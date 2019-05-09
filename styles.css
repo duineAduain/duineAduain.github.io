@@ -1,10 +1,13 @@
 body {
+  font-family: Helvetica, sans-serif;
   margin-left: 150px;
   margin-right: 150px;
 }
 
-p {
-  font-family: Helvetica, sans-serif;
+@media only screen and (max-width: 800px) {
+  .notonmobile {
+    display: none;
+  }
 }
 
 table {
