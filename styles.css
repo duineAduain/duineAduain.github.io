@@ -1,8 +1,10 @@
+/*
 body {
   font-family: Helvetica, sans-serif;
   margin-left: 150px;
   margin-right: 150px;
 }
+*/
 
 @media only screen and (max-width: 800px) {
   .notonmobile {
