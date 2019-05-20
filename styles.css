@@ -1,20 +1,8 @@
-body {
-  margin-left: 150px;
-  margin-right: 150px;
-}
-
 @media only screen and (max-width: 800px) {
   .notonmobile {
     display: none;
   }
 }
-
-/*
-.mx-2 {
-  margin-left: ($spacer * 3) !important;
-  margin-right: ($spacer * 3) !important;
-}
-*/
 
 table {
   border: 2px solid black;
